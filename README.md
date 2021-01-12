@@ -1,5 +1,6 @@
 # Python Basics
 
+![Logo](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 <H3>Description</H3>
 
@@ -11,4 +12,3 @@ You can see coded examples with comment in this repo, so, Let's get started
 See these coded examples and tries these, Hope you will like it.
 
 ***Start learning, Start Evolving...*** 🤗
-
