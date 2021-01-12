@@ -1,6 +1,6 @@
 # Python Basics
 
-![Logo](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Logo](https://media.giphy.com/media/3o6Ztb8w8H1ckNzVFS/giphy.gif)
 
 <H3>Description</H3>
 
