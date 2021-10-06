@@ -1,6 +1,6 @@
 ### this is string program in python 
 ### it is short progran 
-### this program output ....
+### this program output 
 def string(str1):
 
     print("string ==",str1)             #–len()–max()–min() are three string built in fns
