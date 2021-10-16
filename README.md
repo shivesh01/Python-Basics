@@ -15,6 +15,7 @@ See these coded examples and tries these, Hope you will like it.
 
 
 ## Here, you can see the content of each folder for easy navigation
+'''bash
 |____Inheritance(types)
 | |____1.cpp
 | |____2.cpp
@@ -325,4 +326,6 @@ See these coded examples and tries these, Hope you will like it.
 | |____passing_arg_parenthesis.py
 | |____constant.py
 | |____main.py
-| |____Method_init.py
+| |____Method_init.pyj
+
+'''
