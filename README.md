@@ -13,7 +13,6 @@ See these coded examples and tries these, Hope you will like it.
 
 ***Start learning, Start Evolving...*** 🤗
 
-
 ## Here, you can see the content of each folder for easy navigation
 
 ```bash
